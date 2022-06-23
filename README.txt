@@ -1,0 +1,15 @@
+Welcome to my portfolio's github repository!
+
+comments:
+<form method="post" action="mailto:neerajhareshharjani@gmail.com" enctype=”multipart/form-data”>
+								<div class="row">
+									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
+									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="col-12">
+										<textarea name="message" placeholder="Message"></textarea>
+									</div>
+									<div class="col-12">
+										<input type="submit" value="Send Message" />
+									</div>
+								</div>
+							</form>
